@@ -11,6 +11,15 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Variant effect prediction tools assessed using independent, functional assay-based datasets: implications for discovery and diagnostics</title>
+      <link>https://supernifty.github.io/publication/vep/</link>
+      <pubDate>Tue, 16 May 2017 21:36:47 +1000</pubDate>
+      
+      <guid>https://supernifty.github.io/publication/vep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>UNDR ROVER - a fast and accurate variant caller for targeted DNA sequencing</title>
       <link>https://supernifty.github.io/publication/undr-rover/</link>
       <pubDate>Sat, 16 Apr 2016 10:20:42 +1000</pubDate>
