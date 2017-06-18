@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Protein on Peter Georgeson</title>
+    <link>https://supernifty.github.io/tags/protein/</link>
+    <description>Recent content in Protein on Peter Georgeson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Peter Georgeson</copyright>
+    <lastBuildDate>Sun, 18 Jun 2017 09:44:16 +1000</lastBuildDate>
+    <atom:link href="/tags/protein/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>predictein</title>
+      <link>https://supernifty.github.io/project/predictein/</link>
+      <pubDate>Sun, 18 Jun 2017 09:44:16 +1000</pubDate>
+      
+      <guid>https://supernifty.github.io/project/predictein/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

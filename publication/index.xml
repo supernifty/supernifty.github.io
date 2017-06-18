@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Peter Georgeson</title>
+    <link>https://supernifty.github.io/publication/</link>
+    <description>Recent content in Publications on Peter Georgeson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Peter Georgeson</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>UNDR ROVER - a fast and accurate variant caller for targeted DNA sequencing</title>
+      <link>https://supernifty.github.io/publication/undr-rover/</link>
+      <pubDate>Sat, 16 Apr 2016 10:20:42 +1000</pubDate>
+      
+      <guid>https://supernifty.github.io/publication/undr-rover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A prospective evaluation of whole-exome sequencing as a first-tier molecular test in infants with suspected monogenic disorders</title>
+      <link>https://supernifty.github.io/publication/whole-exome/</link>
+      <pubDate>Thu, 03 Mar 2016 10:03:20 +1000</pubDate>
+      
+      <guid>https://supernifty.github.io/publication/whole-exome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

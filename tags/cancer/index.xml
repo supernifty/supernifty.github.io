@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cancer on Peter Georgeson</title>
+    <link>https://supernifty.github.io/tags/cancer/</link>
+    <description>Recent content in Cancer on Peter Georgeson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Peter Georgeson</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/cancer/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pan Prostate Sample Analysis</title>
+      <link>https://supernifty.github.io/project/pan-prostate/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://supernifty.github.io/project/pan-prostate/</guid>
+      <description>&lt;p&gt;A large cohort of pan prostate WGS samples are being analysed using a common workflow.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
