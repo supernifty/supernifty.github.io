@@ -11,6 +11,15 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Diagnostic Impact and Cost-effectiveness of Whole-Exome Sequencing for Ambulant Children With Suspected Monogenic Conditions</title>
+      <link>https://supernifty.github.io/publication/whole-exome-monogenic/</link>
+      <pubDate>Mon, 31 Jul 2017 10:03:20 +1000</pubDate>
+      
+      <guid>https://supernifty.github.io/publication/whole-exome-monogenic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Variant effect prediction tools assessed using independent, functional assay-based datasets: implications for discovery and diagnostics</title>
       <link>https://supernifty.github.io/publication/vep/</link>
       <pubDate>Tue, 16 May 2017 21:36:47 +1000</pubDate>
