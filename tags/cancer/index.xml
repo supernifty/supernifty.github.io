@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Peter Georgeson</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/cancer/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://supernifty.github.io/tags/cancer/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Pan Prostate Sample Analysis</title>
@@ -16,8 +18,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://supernifty.github.io/project/pan-prostate/</guid>
-      <description>&lt;p&gt;A large cohort of pan prostate WGS samples are being analysed using a common workflow.&lt;/p&gt;
-</description>
+      <description>A large cohort of pan prostate WGS samples are being analysed using a common workflow.</description>
     </item>
     
   </channel>

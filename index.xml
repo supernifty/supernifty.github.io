@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>sEst: Accurate Sex-Estimation and Abnormality Detection in Methylation Microarray Data</title>
+      <link>https://supernifty.github.io/publication/sest/</link>
+      <pubDate>Mon, 15 Oct 2018 00:02:51 +1000</pubDate>
+      
+      <guid>https://supernifty.github.io/publication/sest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Diagnostic Impact and Cost-effectiveness of Whole-Exome Sequencing for Ambulant Children With Suspected Monogenic Conditions</title>
       <link>https://supernifty.github.io/publication/whole-exome-monogenic/</link>
       <pubDate>Mon, 31 Jul 2017 10:03:20 +1000</pubDate>
