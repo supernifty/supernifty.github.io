@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Bionitio: demonstrating and facilitating best practices for bioinformatics command-line software</title>
+      <link>https://supernifty.github.io/publication/bionitio/</link>
+      <pubDate>Mon, 23 Sep 2019 00:02:51 +1000</pubDate>
+      
+      <guid>https://supernifty.github.io/publication/bionitio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tumor mutational signatures in sebaceous skin lesions from individuals with Lynch syndrome</title>
       <link>https://supernifty.github.io/publication/mutsid/</link>
       <pubDate>Sat, 06 Apr 2019 00:02:51 +1000</pubDate>
