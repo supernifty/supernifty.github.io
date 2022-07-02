@@ -1,24 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Visualization on Peter Georgeson</title>
+    <title>visualization on Peter Georgeson</title>
     <link>https://supernifty.github.io/tags/visualization/</link>
-    <description>Recent content in Visualization on Peter Georgeson</description>
+    <description>Recent content in visualization on Peter Georgeson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Peter Georgeson</copyright>
-    <lastBuildDate>Sun, 18 Jun 2017 09:44:16 +1000</lastBuildDate>
-    
-	<atom:link href="https://supernifty.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 18 Jun 2017 09:44:16 +1000</lastBuildDate><atom:link href="https://supernifty.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>predictein</title>
       <link>https://supernifty.github.io/project/predictein/</link>
       <pubDate>Sun, 18 Jun 2017 09:44:16 +1000</pubDate>
       
       <guid>https://supernifty.github.io/project/predictein/</guid>
-      <description></description>
+      <description>Prediction of protein structure for non-model organisms</description>
     </item>
     
   </channel>

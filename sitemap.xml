@@ -1,255 +1,96 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/publication/bionitio/</loc>
-      <lastmod>2019-09-23T00:02:51+10:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/publication/mutsid/</loc>
-      <lastmod>2019-04-06T00:02:51+10:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/publication/giardia/</loc>
-      <lastmod>2019-01-01T19:02:51+10:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/publication/sest/</loc>
-      <lastmod>2018-10-15T00:02:51+10:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/publication/whole-exome-monogenic/</loc>
-      <lastmod>2017-07-31T10:03:20+10:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/project/predictein/</loc>
-      <lastmod>2017-06-18T09:44:16+10:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/publication/vep/</loc>
-      <lastmod>2017-05-16T21:36:47+10:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/publication/diagnostic-neuropathy/</loc>
-      <lastmod>2017-04-26T19:02:51+10:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/publication/lof/</loc>
-      <lastmod>2017-02-15T19:02:51+10:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/publication/single-nucleotide/</loc>
-      <lastmod>2016-11-11T19:02:51+10:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/project/pan-prostate/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/publication/undr-rover/</loc>
-      <lastmod>2016-04-16T10:20:42+10:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/publication/whole-exome/</loc>
-      <lastmod>2016-03-03T10:03:20+10:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/tags/bioinformatics/</loc>
-      <lastmod>2017-06-18T09:44:16+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/tags/cancer/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/tags/data-analysis/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/project/</loc>
-      <lastmod>2017-06-18T09:44:16+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/tags/protein/</loc>
-      <lastmod>2017-06-18T09:44:16+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://supernifty.github.io/tags/visualization/</loc>
-      <lastmod>2017-06-18T09:44:16+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://supernifty.github.io/home/about/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/home/publications_selected/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/home/posts/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/home/projects/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/home/teaching/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/home/contact/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/</loc>
+    <lastmod>2018-10-15T00:02:51+10:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/publication/sest/</loc>
+    <lastmod>2018-10-15T00:02:51+10:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/publication/whole-exome-monogenic/</loc>
+    <lastmod>2017-07-31T10:03:20+10:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/tags/bioinformatics/</loc>
+    <lastmod>2017-06-18T09:44:16+10:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/project/predictein/</loc>
+    <lastmod>2017-06-18T09:44:16+10:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/project/</loc>
+    <lastmod>2017-06-18T09:44:16+10:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/tags/protein/</loc>
+    <lastmod>2017-06-18T09:44:16+10:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/tags/</loc>
+    <lastmod>2017-06-18T09:44:16+10:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/tags/visualization/</loc>
+    <lastmod>2017-06-18T09:44:16+10:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/publication/vep/</loc>
+    <lastmod>2017-05-16T21:36:47+10:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/publication/diagnostic-neuropathy/</loc>
+    <lastmod>2017-04-26T19:02:51+10:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/publication/lof/</loc>
+    <lastmod>2017-02-15T19:02:51+10:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/tags/academic/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/post/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/publication/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/talk/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/publication/single-nucleotide/</loc>
+    <lastmod>2016-11-11T19:02:51+10:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/tags/cancer/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/tags/data-analysis/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/project/pan-prostate/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/home/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/publication/undr-rover/</loc>
+    <lastmod>2016-04-16T10:20:42+10:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/publication/whole-exome/</loc>
+    <lastmod>2016-03-03T10:03:20+10:00</lastmod>
+  </url><url>
+    <loc>https://supernifty.github.io/categories/</loc>
+  </url><url>
+    <loc>https://supernifty.github.io/publication_types/</loc>
+  </url>
 </urlset>

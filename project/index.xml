@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Peter Georgeson</title>
@@ -7,18 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Peter Georgeson</copyright>
-    <lastBuildDate>Sun, 18 Jun 2017 09:44:16 +1000</lastBuildDate>
-    
-	<atom:link href="https://supernifty.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 18 Jun 2017 09:44:16 +1000</lastBuildDate><atom:link href="https://supernifty.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>predictein</title>
       <link>https://supernifty.github.io/project/predictein/</link>
       <pubDate>Sun, 18 Jun 2017 09:44:16 +1000</pubDate>
       
       <guid>https://supernifty.github.io/project/predictein/</guid>
-      <description></description>
+      <description>Prediction of protein structure for non-model organisms</description>
     </item>
     
     <item>
@@ -27,7 +23,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://supernifty.github.io/project/pan-prostate/</guid>
-      <description>A large cohort of pan prostate WGS samples are being analysed using a common workflow.</description>
+      <description>Analysis of a large number of WGS samples using a common pipeline.</description>
     </item>
     
   </channel>

@@ -1,39 +1,66 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Peter Georgeson on Peter Georgeson</title>
+    <title>Peter Georgeson</title>
     <link>https://supernifty.github.io/</link>
-    <description>Recent content in Peter Georgeson on Peter Georgeson</description>
+    <description>Recent content on Peter Georgeson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Peter Georgeson</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Oct 2018 00:02:51 +1000</lastBuildDate><atom:link href="https://supernifty.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://supernifty.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://supernifty.github.io/home/about/</guid>
+      <description>Biography I am a cancer researcher at Associate Professor Dan Buchanan’s Colorectal Oncogenomics Group. I have a computational background; my focus is the application of tumour mutational signatures to understanding and detecting the underlying aetiology driving different sub-types of colorectal cancer.
+I am also involved with a number of applied research projects continuing from my previous role at Melbourne Bioinformatics. These include:
+Melbourne Genomics Health Alliance, a consortium bringing genomics to the clinic.</description>
+    </item>
     
     <item>
-      <title>Bionitio: demonstrating and facilitating best practices for bioinformatics command-line software</title>
-      <link>https://supernifty.github.io/publication/bionitio/</link>
-      <pubDate>Mon, 23 Sep 2019 00:02:51 +1000</pubDate>
+      <title>Selected Publications</title>
+      <link>https://supernifty.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://supernifty.github.io/publication/bionitio/</guid>
+      <guid>https://supernifty.github.io/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tumor mutational signatures in sebaceous skin lesions from individuals with Lynch syndrome</title>
-      <link>https://supernifty.github.io/publication/mutsid/</link>
-      <pubDate>Sat, 06 Apr 2019 00:02:51 +1000</pubDate>
+      <title>Recent Posts</title>
+      <link>https://supernifty.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://supernifty.github.io/publication/mutsid/</guid>
+      <guid>https://supernifty.github.io/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Annotation of the Giardia proteome through structure-based homology and machine learning</title>
-      <link>https://supernifty.github.io/publication/giardia/</link>
-      <pubDate>Tue, 01 Jan 2019 19:02:51 +1000</pubDate>
+      <title>Projects</title>
+      <link>https://supernifty.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://supernifty.github.io/publication/giardia/</guid>
+      <guid>https://supernifty.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://supernifty.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://supernifty.github.io/home/teaching/</guid>
+      <description>Instructor: Introduction to Unix at Melbourne Bioinformatics October, 2018 (14 students). June, 2018 (18 students). March, 2018 (18 students). September, 2017 (18 students). Instructor: Introduction to HPC at Melbourne Bioinformatics June, 2018 (9 students). March, 2018 (13 students). Subject coordinator: Algorithms for Functional Genomics at The University of Melbourne Semester 2, 2017 (44 students). Guest lecturer: Master of Business Analytics at The University of Melbourne Semester 1, 2017 (45 students).</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://supernifty.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://supernifty.github.io/home/contact/</guid>
       <description></description>
     </item>
     
@@ -61,7 +88,7 @@
       <pubDate>Sun, 18 Jun 2017 09:44:16 +1000</pubDate>
       
       <guid>https://supernifty.github.io/project/predictein/</guid>
-      <description></description>
+      <description>Prediction of protein structure for non-model organisms</description>
     </item>
     
     <item>
@@ -106,8 +133,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://supernifty.github.io/project/pan-prostate/</guid>
-      <description>&lt;p&gt;A large cohort of pan prostate WGS samples are being analysed using a common workflow.&lt;/p&gt;
-</description>
+      <description>Analysis of a large number of WGS samples using a common pipeline.</description>
     </item>
     
     <item>

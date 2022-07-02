@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Peter Georgeson</title>
@@ -7,20 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Peter Georgeson</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://supernifty.github.io/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://supernifty.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://supernifty.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://supernifty.github.io/home/about/</guid>
-      <description>Biography I am a PhD student embedded at Dan Buchanan&amp;rsquo;s Colorectal Oncogenomics Group. The focus of my PhD research is the application of tumour mutational signatures to understanding and detecting the underlying aetiology driving different sub-types of colorectal cancer.
+      <description>Biography I am a cancer researcher at Associate Professor Dan Buchanan’s Colorectal Oncogenomics Group. I have a computational background; my focus is the application of tumour mutational signatures to understanding and detecting the underlying aetiology driving different sub-types of colorectal cancer.
 I am also involved with a number of applied research projects continuing from my previous role at Melbourne Bioinformatics. These include:
- Melbourne Genomics Health Alliance, a consortium bringing genomics to the clinic.</description>
+Melbourne Genomics Health Alliance, a consortium bringing genomics to the clinic.</description>
     </item>
     
     <item>
@@ -56,7 +52,7 @@ I am also involved with a number of applied research projects continuing from my
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://supernifty.github.io/home/teaching/</guid>
-      <description>Tutor: Master of Business Analytics at The University of Melbourne  Semester 1, 2019 (54 students)  Instructor: Introduction to Unix at Melbourne Bioinformatics  October, 2018 (14 students). June, 2018 (18 students). March, 2018 (18 students). September, 2017 (18 students).  Instructor: Introduction to HPC at Melbourne Bioinformatics  June, 2018 (9 students). March, 2018 (13 students).  Subject coordinator: Algorithms for Functional Genomics at The University of Melbourne  Semester 2, 2017 (44 students).</description>
+      <description>Instructor: Introduction to Unix at Melbourne Bioinformatics October, 2018 (14 students). June, 2018 (18 students). March, 2018 (18 students). September, 2017 (18 students). Instructor: Introduction to HPC at Melbourne Bioinformatics June, 2018 (9 students). March, 2018 (13 students). Subject coordinator: Algorithms for Functional Genomics at The University of Melbourne Semester 2, 2017 (44 students). Guest lecturer: Master of Business Analytics at The University of Melbourne Semester 1, 2017 (45 students).</description>
     </item>
     
     <item>
